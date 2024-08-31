@@ -1,0 +1,32 @@
+/* src/components/ImageSlider.css */
+.slider {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .slider-image {
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+  }
+  
+  .slider-button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .slider-button:first-of-type {
+    left: 10px;
+  }
+  
+  .slider-button:last-of-type {
+    right: 10px;
+  }
+  

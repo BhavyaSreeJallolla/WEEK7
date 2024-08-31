@@ -1,0 +1,13 @@
+/* src/components/LogoGallery.css */
+.logo-gallery {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .logo {
+    width: 100%;
+    max-width: 150px;
+    height: auto;
+    margin: 0 10px;
+  }
+  
