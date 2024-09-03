@@ -1,0 +1,33 @@
+/* src/components/ProjectCard/ProjectCard.module.css */
+.projectCard {
+  background-color:lightpink;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.projectCard:hover {
+  transform: translateY(-5px);
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+.content {
+  padding: 15px;
+}
+
+.title {
+  font-size: 1.5rem;
+  color: lightseagreen;
+}
+
+.description {
+  font-size: 1rem;
+  color: lightseagreen;
+  margin-top: 10px;
+}

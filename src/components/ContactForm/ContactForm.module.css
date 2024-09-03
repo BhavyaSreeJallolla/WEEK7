@@ -1,0 +1,46 @@
+/* src/components/ContactForm/ContactForm.module.css */
+.contactForm {
+  max-width: 500px;
+  margin: 40px auto; /* Centers the form and adds spacing */
+  padding: 20px;
+  background-color: #16a9bd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+.formGroup label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.formGroup input,
+.formGroup textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #b42e2e;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.formGroup textarea {
+  resize: vertical;
+}
+
+.submitButton {
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  background-color: lime;
+  color: darkorchid;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.submitButton:hover {
+  background-color: #cf2256;
+}
