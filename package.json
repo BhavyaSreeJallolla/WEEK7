@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "props",
 =======
   "name": "propes_types",
 >>>>>>> 13f8283 (props)
+=======
+  "name": "repeatcomponent",
+>>>>>>> 0061da6 (Add new folder and files)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,9 +19,12 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     "prop-types": "^15.8.1",
 >>>>>>> 13f8283 (Added new folder)
+=======
+>>>>>>> 0061da6 (Add new folder and files)
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
