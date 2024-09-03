@@ -1,0 +1,30 @@
+/* src/components/ArtworkGallery.css */
+.artwork-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .artwork-item {
+    flex: 1 1 30%;
+    box-sizing: border-box;
+  }
+  
+  .artwork-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .artwork-info {
+    padding: 10px;
+  }
+  
+  .artwork-title {
+    font-size: 1.2em;
+    margin: 0;
+  }
+  
+  .artwork-description {
+    margin: 5px 0 0;
+  }
+  

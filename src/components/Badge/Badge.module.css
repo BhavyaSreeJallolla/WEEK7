@@ -1,0 +1,20 @@
+.badge {
+    display: inline-block;
+    padding: 5px 10px;
+    border-radius: 12px;
+    color: white;
+    font-size: 14px;
+  }
+  
+  .success {
+    background-color: #28a745;
+  }
+  
+  .warning {
+    background-color: #ffc107;
+  }
+  
+  .error {
+    background-color: #dc3545;
+  }
+  

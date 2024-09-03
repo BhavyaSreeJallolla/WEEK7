@@ -1,0 +1,13 @@
+/* src/components/VideoGallery.css */
+.video-gallery {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .video-thumbnail {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    margin: 0 10px;
+  }
+  

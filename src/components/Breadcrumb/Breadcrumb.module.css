@@ -1,0 +1,16 @@
+.breadcrumb {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .breadcrumbItem {
+    margin: 0 8px;
+    color: #007bff;
+  }
+  
+  .separator {
+    margin: 0 8px;
+    color: #ccc;
+  }
+  
