@@ -1,0 +1,17 @@
+.banner {
+    background-image: url('https://media.istockphoto.com/id/1669453534/photo/3d-render-cloud-computing-circuit-board-background.webp?a=1&b=1&s=612x612&w=0&k=20&c=jgKabe5sTZmFbj0gHwh5U3Dw5NBa6TQuU1J4plYcAJI='); /* Add your image path here */
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 3em;
+    margin: 0;
+  }
+  
