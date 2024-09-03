@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "props",
+=======
+  "name": "propes_types",
+>>>>>>> 13f8283 (props)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,6 +14,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "prop-types": "^15.8.1",
+>>>>>>> 13f8283 (Added new folder)
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },

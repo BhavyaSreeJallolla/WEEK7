@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(73, 42, 211, 0.1);
+  }
+  
+  .recipeName {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .ingredients {
+    font-size: 1.2em;
+    color: lightseagreen;
+  }
+  
+  .cookingTime {
+    font-size: 1em;
+    color: #333;
+  }
+  

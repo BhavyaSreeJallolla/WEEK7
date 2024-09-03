@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(224, 4, 4, 0.1);
+  }
+  
+  .eventName {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .date {
+    font-size: 1.2em;
+    color:lightseagreen;
+  }
+  
+  .location {
+    font-size: 1em;
+    color:lightsalmon;
+  }
+  

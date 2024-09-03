@@ -1,0 +1,22 @@
+.card {
+    border: 1px solid #ccc;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(40, 247, 21, 0.1);
+  }
+  
+  .headline {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .summary {
+    font-size: 1.2em;
+    color: #13ce61;
+  }
+  
+  .source {
+    font-size: 1em;
+    color: #c21717;
+  }
+  
